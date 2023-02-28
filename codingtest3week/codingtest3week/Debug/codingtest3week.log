@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\user\Documents\GitHub\Codingtest\codingtest3week\codingtest3week\main.cpp(17,20): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\Documents\GitHub\Codingtest\codingtest3week\codingtest3week\main.cpp(22,21): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\Documents\GitHub\Codingtest\codingtest3week\codingtest3week\main.cpp(23,10): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+  codingtest3week.vcxproj -> C:\Users\user\Documents\GitHub\Codingtest\codingtest3week\Debug\codingtest3week.exe
